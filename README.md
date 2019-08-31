@@ -1,7 +1,9 @@
 # CodeFox🦊 #SayYesToCode
+<ul style='float: left;'>
+<li style='list-style-type: none;'><img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/home.png" width="200" alt='home'></li>
+<li style='list-style-type: none;'><img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/main%20menu.png" width="200" alt='main menu'></li>
+</ul>
 
-<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/home.png" width="200" alt='home'>
-<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/main%20menu.png" width="200" alt='main menu'>
 <img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/succes.png" width="200" alt='win'>
 <img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/Screenshot%20from%202019-08-31%2022-35-33.png" width="200" alt='lose'>
 
