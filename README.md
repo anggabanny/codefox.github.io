@@ -1,9 +1,9 @@
 # CodeFox🦊 #SayYesToCode
 
-<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/home.png" width="100">
-![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/main%20menu.png "MainMenu")
-![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/succes.png "goodgame")
-![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/Screenshot%20from%202019-08-31%2022-35-33.png "failed")
+<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/home.png" width="200" alt='home'>
+<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/main%20menu.png" width="200" alt='main menu'>
+<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/succes.png" width="200" alt='win'>
+<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/Screenshot%20from%202019-08-31%2022-35-33.png" width="200" alt='lose'>
 
 
 CodeFox🦊 [**Play The Apps**] **https://anggabanny.github.io/codefox.github.io/**
