@@ -1,0 +1,125 @@
+.codeRegister {
+    height: 300px;
+    width: 600px;
+    background-color: rgb(62, 63, 63);
+    margin-bottom: 20px;
+    display: block;
+    transition: 0.8s;
+}
+#soal {
+    background-color: rgb(32, 32, 32);
+    padding: 10px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.textInput {
+    margin-left: 30px;
+    font-size: 25px;
+    padding: 5px 10px;
+    width:80px;
+    border: none;
+} .satu {
+    margin-left: 0px;
+    width: 130px;
+}
+
+.tombolCheck {
+    background-color: rgb(71, 194, 22);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 150px;
+    margin: 10px 0;
+    margin-left: 115px;
+    font-family: 'Titillium Web', sans-serif;
+    transition: 0.3s;
+} .tombolCheck:hover {
+    background-color: rgb(207, 207, 207);
+    box-shadow: 0px 0px 10px 0px rgb(207, 207, 207);
+}
+#registOn {
+    display: none;
+}
+
+.animate {
+    background-color: rgb(26, 26, 26);
+    color: orangered;
+    text-decoration: none;
+    border: 1px solid orangered;
+    box-shadow: 0px 0px 5px 0px  orangered;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 15px;
+    padding: 5px 100px;
+    margin-left: 165px;
+    font-family: 'Titillium Web', sans-serif;
+    transition: 0.3s;
+} .animate:hover {
+    background-color: orangered;
+    color: white;
+}
+
+.animate2 {
+    background-color: orange;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 150px;
+    margin: 10px 0;
+    margin-left: 115px;
+    font-family: 'Titillium Web', sans-serif;
+    transition: 0.3s;
+} .animate2:hover {
+    color: white;
+    background-color: orangered;
+    box-shadow: 0px 0px 10px 0px orangered;
+}
+@media only screen and (max-width: 850px){
+    .codeRegister {
+        width: 600px;
+        transition: 0.8s;
+    }
+    #soal {
+        font-size: 18px;
+        color: red;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        transition: 0.8s;
+    }
+    .tombolCheck {
+        margin-left: 15%;
+        transition: 0.3s;
+    }
+
+}
+@media only screen and (max-width: 640px){
+    .codeRegister {
+        height: 300px;
+        width: 450px;
+        transition: 0.8s;
+    }
+    #soal {
+        font-size: 13px;
+        color: red;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        transition: 0.8s;
+    }
+    .animate {
+        margin-left: 80%;
+        transition: 0.3s;
+    }
+    .animate2 {
+        margin-left: 38%;
+        transition: 0.3s;
+    }
+}
