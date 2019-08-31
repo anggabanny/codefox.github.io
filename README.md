@@ -25,4 +25,4 @@
 <a href='https://www.w3schools.com/js/default.asp' target="_blank">W3School.com</a>
 
 ### Developer:
-<a href="https://github.com/anggabanny"><img src="https://img.shields.io/github/anggabanny/repository.svg?style=flat-square" title="GitHub" alt="GitHub" /></a>
+<a href="https://github.com/anggabanny"><img src="https://img.shields.io/github/release/anggabanny/repository.svg?style=flat-square" title="GitHub" alt="GitHub" /></a>
