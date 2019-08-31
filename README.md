@@ -11,15 +11,17 @@
 
 
 ### Peringkat Pemain
-- [**Baby Fox**]<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level1.png " width="100" alt='BabyFox'>
-- [**Kidy Fox**] ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level2.png "KidyFox")
-- [**Warrior Fox**] ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level3.png "WarriorFox")
+- ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level1.png "BabyFox")
+- ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level2.png "KidyFox")
+- ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level3.png "WarriorFox")
 
 ### dibuat dengan:
-- HTML5
+- HTML5 
 - CSS3
 - DOM
 - Javascript
+
+![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450)
 
 ### Situs Pembelajaran:
 <a href='https://www.w3schools.com/js/default.asp' target="_blank">W3School.com</a>
