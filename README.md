@@ -1,6 +1,6 @@
 # CodeFox🦊 #SayYesToCode
-<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/home.png" width="200" alt='home' style='float: left;'>
-<img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/main%20menu.png" width="200" alt='main menu' style='float: left;'>
+<li style='float: left;'><img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/home.png" width="200" alt='home' style='float: left;'></li>
+<li style='float: left;'><img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/main%20menu.png" width="200" alt='main menu' style='float: left;'></li>
 <img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/succes.png" width="200" alt='win' style='float: left;'>
 <img src="https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/Screenshot%20from%202019-08-31%2022-35-33.png" width="200" alt='lose' style='float: left;'>
 
