@@ -427,7 +427,7 @@ if (user[2] ==  levels[0]) {
             document.getElementById('nilai').innerHTML = nilaiAsli[0];
             document.getElementById('rata2').innerHTML = rata22 + '%';
 
-            var arr = [user[0],user[1]]
+            var arr = [[user[0]],[user[1]]]
             arr.push(levels[1])
             localStorage.setItem(user[0], JSON.stringify(arr));
         }
@@ -437,7 +437,7 @@ if (user[2] ==  levels[0]) {
     // TIMES
     var cekSoal = 'Soal1';
     document.getElementById('waktu3m').innerHTML = 0 + ":" + 30 + 's';
-    // startTimer();
+    startTimer();
     function startTimer() {
         var presentTime = document.getElementById('waktu3m').innerHTML;
         var timeArray = presentTime.split(/[:&s]+/);
@@ -767,12 +767,9 @@ if (user[2] ==  levels[0]) {
             document.getElementById('nilai').innerHTML = nilaiAsli[0];
             document.getElementById('rata2').innerHTML = rata22 + '%';
 
-            document.getElementById('levelEnd').style.backgroundColor = 'rgb(14, 14, 14)'
-            var arr = [user[0],user[1]]
+            var arr = [[user[0]],[user[1]]]
             arr.push(levels[2])
             localStorage.setItem(user[0], JSON.stringify(arr));
-
-
         }
     }
 } else if (user[2] ==  levels[2]) {
