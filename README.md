@@ -4,10 +4,10 @@
 
 [*** CodeFox🦊 ***] [**Play The Apps**] **https://anggabanny.github.io/codefox.github.io/**
 ### Cara Bermain
-> pemain di beri 5 soal di setiap levelnya
-> masing - masing soal bernilai 100, dan dikurangi 20 disetiap jawaban yang salah atau kosong
-> pemain berhasil apabila rata rata nilai lebih dari atau sama dengan 70
-> pemain gagal dan akan mengulangi soal di level yang sama bila rata rata nilai kurang dari 70
+- pemain di beri 5 soal di setiap levelnya
+- masing - masing soal bernilai 100, dan dikurangi 20 disetiap jawaban yang salah atau kosong
+- pemain berhasil apabila rata rata nilai lebih dari atau sama dengan 70
+- pemain gagal dan akan mengulangi soal di level yang sama bila rata rata nilai kurang dari 70
 
 
 ### Peringkat Pemain
@@ -16,14 +16,13 @@
 - ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level3.png "WarriorFox")
 
 ### dibuat dengan:
-- HTML5 
-- CSS3
-- DOM
-- Javascript
-#DEMO
-svg-pypi-dl-day - daily downloads on PyPI
-
+- 🔰HTML5 
+- 🔰CSS3
+- 🔰DOM
+- 🔰Javascript
 
 ### Situs Pembelajaran:
 <a href='https://www.w3schools.com/js/default.asp' target="_blank">W3School.com</a>
 
+### Developer:
+<a href="https://github.com/anggabanny"><img src="https://img.shields.io/github/anggabanny.svg?style=flat-square" title="GitHub" alt="GitHub" /></a>
