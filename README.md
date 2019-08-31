@@ -24,5 +24,8 @@
 ### Situs Pembelajaran:
 <a href='https://www.w3schools.com/js/default.asp' target="_blank">W3School.com</a>
 
-<p text-align='center'>Developer</p>
-<img src="https://avatars1.githubusercontent.com/u/47580620?s=400&u=596d8fa9efac3bed96f752b87e27bdde6dd8b5d7&v=4" width="200" alt='anggabanny'>
+<p align="center">
+  <b>Developer</b>
+  <br><br>
+  <img src="https://avatars1.githubusercontent.com/u/47580620?s=400&u=596d8fa9efac3bed96f752b87e27bdde6dd8b5d7&v=4" width="200" alt='anggabanny'>
+</p>
