@@ -1,30 +1,30 @@
-PENGEMBANGAN
-<!-- # CodeFox🦊 #SayYesToCode
+# CodeFox🦊 #SayYesToCode
 
-![alt text](https://github.com/andreassosilo/chickuiz/blob/master/assets/chickuiz.png "Chickuiz Home")
-![alt text](https://github.com/andreassosilo/chickuiz/blob/master/assets/chickuiz3.png "Chickuiz Gameplay")
-![alt text](https://github.com/andreassosilo/chickuiz/blob/master/assets/chickuiz2.png "Chickuiz Game")
-![alt text](https://github.com/andreassosilo/chickuiz/blob/master/assets/chickuiz4.png "End Page")
-![alt text](https://github.com/andreassosilo/chickuiz/blob/master/assets/chickuiz5.png "Highest Scores")
+![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/home.png "Home")
+![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/main%20menu.png "MainMenu")
+![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/succes.png "goodgame")
+![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/Screenshot%20from%202019-08-31%2022-35-33.png "failed")
 
 
-:baby_chick: [**Play The Game**] **https://andreassosilo.github.io/chickuiz/**
-### How to Play
-- Answer 10 questions by clicking the button of the multiple choices.
-- For every correct answer, you will get 10 points.
-- There will be a timer of 5 seconds per question. Make sure to answer within the time limit!
-- At the end of the game, your accumulated score will be displayed on the result display.
+CodeFox🦊 [**Play The Apps**] **https://anggabanny.github.io/codefox.github.io/**
+### Cara Bermain
+> pemain di beri 5 soal di setiap levelnya
+> masing - masing soal bernilai 100, dan dikurangi 20 disetiap jawaban yang salah atau kosong
+> pemain berhasil apabila rata rata nilai lebih dari atau sama dengan 70
+> pemain gagal dan akan mengulangi soal di level yang sama bila rata rata nilai kurang dari 70
 
-### Score & Rank
-- :hatching_chick: [**Noob Egg**] : 0-40 points
-- :hatched_chick: [**Happy Chick**] : 50-90 points
-- :chicken: [**Full Headed Chicken**] : 100 points (__highest__)
 
-### Build using:
+### Peringkat Pemain
+- [**Baby Fox**] ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level1.png "BabyFox")
+- [**Kidy Fox**] ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level2.png "KidyFox")
+- [**Warrior Fox**] ![alt text](https://github.com/anggabanny/codefox.github.io/blob/master/img/1x/level3.png "WarriorFox")
+
+### dibuat dengan:
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- DOM
+- Javascript
 
-### License
-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- -->
+### Situs Pembelajaran:
+<a href='https://www.w3schools.com/js/default.asp' target="_blank">W3School.com</a>
+
