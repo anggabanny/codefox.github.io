@@ -20,8 +20,9 @@
 - CSS3
 - DOM
 - Javascript
+#DEMO
+svg-pypi-dl-day - daily downloads on PyPI
 
-![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202019%20Name&labelColor=informational&color=033450)
 
 ### Situs Pembelajaran:
 <a href='https://www.w3schools.com/js/default.asp' target="_blank">W3School.com</a>
