@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Raleway|Viga&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap" rel="stylesheet">
+    <link rel="icon" href="./img/Asset 1.png" type="icon">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/games.css">
+    <title>FoxCode</title>
+</head>
+
+<body>
+    <header>
+        <ul class="divs">
+            <li class="satu"><span class="hello">Hello : </span></li>
+            <li class="satu"><span id="nameUser" class="nameIcon" style="padding: 10px 20px;">name</span></li>
+            <li class="satu"><img src="./img/Asset 2.png" alt="" id="pngimg"></li>
+            <li class="satu"><span id="rankingUser">BabyFox</span></li>
+        </ul>
+    </header>
+    <div><span id="waktu3m" class="waktu"></span></div>
+    <div><span id="TCKE" class="exerciseKe"> Exercise - 1</span></div>
+    <div><span id="" ><img src="./img/Asset 2.png" alt="" class="jsimage"></span></div>
+    <div><span id="levelz" class="delapan"></span></div>
+    <div><span id="pts" class="sembilan"> 0 <strong>Point</strong></span></div>
+    <div class="gamesKid">
+        <div id="pertanyaan1">
+            <li class="exercise">Create a variable called z, assign x + y to it, and display the result in an alert box.</li>
+            <div class="jawab">
+                <span>var x = 5;</span>
+                <br>
+                <span>var y = 10;</span>
+                <br>
+                <input id='exercise1ke1' class="jawaban" type="text">
+                <input id='exercise1ke2' class="jawaban" type="text" style="width: 15px">
+                <span>= x - y</span>
+                <br>
+                <input id='exercise1ke3' class="jawaban" type="text" style="margin-top: 5px; width: 40px;">
+                <span>(z);</span>
+            </div>
+            <div id="button1">
+                <button id="btcheck1" class="buttonCheck" onclick="exercise1()">Check</button>
+                <button id="btnxt1" class="buttonNext" onclick="loncat1()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan2">
+            <li class="exercise">Create a variable called carName, assign the value Volvo to it.</li>
+            <div class="jawab">
+                <span>var</span>
+                <input id='exercise2ke1' class="jawaban" type="text" style="width: 90px;">
+                <span>=</span>
+                <input id='exercise2ke2' class="jawaban" type="text" style="width: 70px;">
+                <span>;</span>
+            </div>
+            <div id="button2">
+                <button id="btcheck2" class="buttonCheck" onclick="exercise2()" >Check</button>
+                <button id="btnxt2" class="buttonNext" onclick="loncat2()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan3">
+            <li class="exercise">Create a variable called x, assign the value 50 to it.</li>
+            <div class="jawab">
+                <span>var</span>
+                <input id='exercise3ke1' class="jawaban" type="text" style="width: 15px;">
+                <span>=</span>
+                <input id='exercise3ke2' class="jawaban" type="text" style="width: 25px;">
+            </div>
+            <div id="button3">
+                <button id="btcheck3" class="buttonCheck" onclick="exercise3()" >Check</button>
+                <button id="btnxt3" class="buttonNext" onclick="loncat3()" >Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan4">
+            <li class="exercise">Display the sum of 5 + 10, using two variables: x and y.</li>
+            <div class="jawab">
+                <span>var</span>
+                <input id='exercise4ke1' class="jawaban" type="text" style="width: 15px;">
+                <span>=</span>
+                <input id='exercise4ke2' class="jawaban" type="text" style="width: 15px;">
+                <span>;</span>
+                <br>
+                <span>var y = 10;</span>
+                <br>
+                <span>console.log(</span>
+                <input id='exercise4ke3' class="jawaban" type="text" style="width: 45px;">
+                <span>);</span>
+            </div>
+            <div id="button4">
+                <button id="btcheck4" class="buttonCheck" onclick="exercise4()" >Check</button>
+                <button id="btnxt4" class="buttonNext" onclick="loncat4()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan5">
+            <li class="exercise">On one single line, declare three variables with the following names and values:</li>
+            <li class="exercise" style="font-size: 20px; background-color: rgb(167, 167, 167);">firstName = "John"</li>
+            <li class="exercise" style="font-size: 20px; background-color: rgb(167, 167, 167);">lastName = "Doe"</li>
+            <li class="exercise" style="font-size: 20px; background-color: rgb(167, 167, 167);">age = 35</li>
+            <div class="jawab">
+                <span>var</span>
+                <input id='exercise5ke1' class="jawaban" type="text" style="width: 100px;">
+                <span>=</span>
+                <span>"John"</span>
+                <input id='exercise5ke2' class="jawaban" type="text" style="width: 10px;">
+                <span style="margin-left: 30px">lastName =</span>
+                <input id='exercise5ke3' class="jawaban" type="text" style="width: 60px;">
+                <input id='exercise5ke4' class="jawaban" type="text" style="margin-left: 30px;width: 80px;">
+                <span>=</span>   
+                <input id='exercise5ke5' class="jawaban" type="text" style="width: 30px;">
+            </div>
+            <div id="button5">
+                <button id="btcheck5" class="buttonCheck" onclick="exercise5()">Check</button>
+                <button id="btnxt5" class="buttonNext" onclick="loncat5()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan6">
+            <li class="exercise">Multiply 10 with 5, and alert the result:</li>
+            <div class="jawab">
+                <span>alert(10</span>
+                <input id='exercise6ke1' class="jawaban" type="text" style="width: 15px;">
+                <span>5);</span>
+            </div>
+            <div id="button1">
+                <button id="btcheck6" class="buttonCheck" onclick="exercise6()">Check</button>
+                <button id="btnxt6" class="buttonNext" onclick="loncat6()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan7">
+            <li class="exercise">Use comments to describe the correct data type of the following variables:</li>
+            <div class="jawab">
+                <span>var length = 16; //</span>
+                <input id='exercise7ke1' class="jawaban" type="text" style="width: 100px;">
+                <br>
+                <span>var lastName = "Johnson"; //</span>
+                <input id='exercise7ke2' class="jawaban" type="text" style="width: 100px;">
+                <br>
+                <span>var x = {</span>
+                <span>  firstName: "John",</span>
+                <span>  lastName: "Doe"</span>
+                <span>}; //</span>
+                <input id='exercise7ke3' class="jawaban" type="text" style="width: 100px;">
+                <br>
+                <span>var y = ['nama','hacktiv8'] //</span>
+                <input id='exercise7ke4' class="jawaban" type="text" style="width: 100px;">
+            </div>
+            <div id="button2">
+                <button id="btcheck7" class="buttonCheck" onclick="exercise7()">Check</button>
+                <button id="btnxt7" class="buttonNext" onclick="loncat7()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan8">
+            <li class="exercise">Make the function return "Hello".</li>
+            <div class="jawab">
+                <span>function myFunction() {</span> <br>
+                <input id='exercise8ke1' class="jawaban" type="text" style="width: 100px;">
+                <span>	&nbsp;"</span>
+                <input id='exercise8ke2' class="jawaban" type="text" style="width: 100px;">
+                <span>";</span>
+                <br>
+                <span>}</span>
+                <br>
+                <span>console.log(myFunction())</span>
+            </div>
+            <div id="button3">
+                <button id="btcheck8" class="buttonCheck" onclick="exercise8()">Check</button>
+                <button id="btnxt8" class="buttonNext" onclick="loncat8()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan9">
+            <li class="exercise">Make the function return "Hello".</li>
+            <div class="jawab">
+                <span>var person = {</span> <br>
+                <span> &NonBreakingSpace; &NonBreakingSpace; firstName: "John",</span> <br>
+                <span> &NonBreakingSpace; &NonBreakingSpace; lastName: "Doe"</span> <br>
+                <span>};</span> <br>
+                <span>alert(</span>
+                <input id='exercise9ke1' class="jawaban" type="text" style="width: 200px;">
+                <span>);</span>
+            </div>
+            <div id="button4">
+                <button id="btcheck9" class="buttonCheck" onclick="exercise9()">Check</button>
+                <button id="btnxt9" class="buttonNext" onclick="loncat9()">Good Job!</button>
+            </div>
+        </div>
+        <div id="pertanyaan10">
+                <li class="exercise">Convert the value of txt to lower case</li>
+                <div class="jawab">
+                    <span>var txt = "Hello World";</span> <br>
+                    <span> txt = </span>
+                    <input id='exercise10ke1' class="jawaban" type="text" style="width: 200px;">
+                    <span>;</span>
+                </div>
+                <div id="button5">
+                    <button id="btcheck10" class="buttonCheck" onclick="exercise10()">Check</button>
+                    <button id="btnxt10" class="buttonNext" onclick="loncat10()">Good Job!</button>
+                </div>
+            </div>
+        <div id="hasilAkhirBaby">
+            <br><br>
+            <span id="endingText">Selamat kamu berhasil!</span>
+            <br><br><br><br>
+            <span class="score">Score </span>
+            <span id="nilai">10109</span>
+            <span id="rata2">90%</span>
+            <button class="buttonNext" onclick="backMain()">kembali</button>
+        </div>
+    </div>
+</body>
+<script src="./js/main.js"></script>
+<script src="./js/games.js"></script>
+<!-- <script src="./js/regist.js"></script> -->
+
+</html>
