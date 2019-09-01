@@ -190,7 +190,7 @@ var text = 'login'
 List()
 function List(){
     var user = JSON.parse(localStorage.getItem(localStorage.getItem(text)));
-    var nama = user[0][0]
+    var nama = user[0]
     var user = user[2]
     if (user == 'BabyFox') {
         rankList.push([nama,3,'BabyFox'])
